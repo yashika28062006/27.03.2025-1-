@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ProductCard from './components/ProductCard';
-import './styles.css';
+import './style.css';
 
 const App = () => {
   // Static products array
